@@ -1,0 +1,10 @@
+{
+  "description": "A stylish unisex fragrance storefront showcasing four signature scents, helping shoppers discover and explore perfumes for every style.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
